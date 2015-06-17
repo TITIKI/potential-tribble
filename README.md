@@ -1,7 +1,7 @@
 # potential-tribble
 <HTML>
 <head>
-<title>aa</title>
+<title></title>
 
 </head>
 <body>
